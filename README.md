@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Crop%20Prediction%20System&height=150&fontSize=48" />
 </p>
+<p align="center">
+  <img src="https://github.com/hidayathulla1234/Crop_Prediction/blob/master/assets/background.png?raw=true "/>
+</p>
 
 
 🌾 Crop Prediction System
