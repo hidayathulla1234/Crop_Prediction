@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Crop%20Prediction%20Syatem&height=150&fontSize=48" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Crop%20Prediction%20System&height=150&fontSize=48" />
 </p>
 
 
