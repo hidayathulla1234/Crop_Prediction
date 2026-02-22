@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Crop%20Prediction%20Syatem&height=150&fontSize=48" />
+</p>
+
+
 🌾 Crop Prediction System
 
 A Machine Learning based Crop Recommendation System built using Python, Flask, and Random Forest Algorithm.
